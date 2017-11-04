@@ -21,13 +21,9 @@
 <h1><a href="../about/">Lucy M Chang</a></h1>
 <nav>
   <ul>
-    {% if page.title == "About" %}
-    <li><a href="../projects/" class="active">projects</a></li>
-    {% else %}
     <li><a href="../projects/">projects</a></li>
-    {% endif %}
     <li><a href="../publications/">publications</a></li> <!-- simple list -->
-    <li><a href="../about/">about</a></li> <!-- photo, blurb with link to text cv -->
+    <li><a href="../about/"{% if page.title == "About" %} class="active"{% endif %}>about</a></li> <!-- photo, blurb with link to text cv -->
     <li><a href="../communication/">communication</a></li> <!-- address and email -->
     <li><a href="../news/">news</a></li> <!-- news -->
   </ul>
