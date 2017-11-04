@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-redirect_from: "/"
+redirect_from: ""
 ---
 
 <!--# {{ page.title }}-->
