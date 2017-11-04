@@ -1,2 +1,4 @@
 name: Lucy M. Chang
 url: https://lucymchang.github.io/
+plugins:
+  - jekyll-redirect-from
