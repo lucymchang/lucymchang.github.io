@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="../scripts/academicons-1.7.0/css/academicons.min.css">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i|Roboto+Condensed' rel='stylesheet' type='text/css'>
 <title>Lucy M Chang - {{ page.title }}</title>
-<!-- if you're reading this, then welcome.  site design based heavily off of the Montauk template in Squarespace, but still built by me.  can't argue with such simplicity. -->
+<!-- if you're reading this, then welcome.  site design based heavily off of the Montauk template in Squarespace, but still built by me.  can't argue with such simplicity.  I have since converted it to Jekyll and currently host the site on Github. -->
 
 </head>
 
@@ -21,11 +21,11 @@
 <h1><a href="../about/">Lucy M Chang</a></h1>
 <nav>
   <ul>
-    <li><a href="../projects/">projects</a></li>
-    <li><a href="../publications/">publications</a></li> <!-- simple list -->
+    <li><a href="../projects/"{% if page.title == "Projects" %} class="active"{% endif %}>projects</a></li>
+    <li><a href="../publications/"{% if page.title == "Publications" %} class="active"{% endif %}>publications</a></li> <!-- simple list -->
     <li><a href="../about/"{% if page.title == "About" %} class="active"{% endif %}>about</a></li> <!-- photo, blurb with link to text cv -->
-    <li><a href="../communication/">communication</a></li> <!-- address and email -->
-    <li><a href="../news/">news</a></li> <!-- news -->
+    <li><a href="../communication/"{% if page.title == "Communication" %} class="active"{% endif %}>communication</a></li> <!-- address and email -->
+    <li><a href="../news/"{% if page.title == "News" %} class="active"{% endif %}>news</a></li> <!-- news -->
   </ul>
 </nav>
 </header>
@@ -49,12 +49,12 @@
   </div>
 
   <div id="address">
-  <p>University of California Museum of Paleontology<br />
-  University of California, Berkeley<br />
-  1101 Valley Life Sciences Building<br />
-  Berkeley, CA 94720 USA</p>
+  <p>Department of Paleobiology, MRC-121<br />
+    National Museum of Natural History<br />
+    Smithsonian Institution<br />
+    Washington, DC 20013-7012</p>
 
-  <p>luchang at berkeley dot edu</p>
+  <p>changlm at si dot edu</p>
   </div>
 
 </footer>
