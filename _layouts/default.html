@@ -1,6 +1,68 @@
-<!DOCTYPE html>
-<html>
-  <body>
-     {{ content }}
-  </body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../style.css">
+<link rel="stylesheet" href="../scripts/font-awesome-4.6.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="../scripts/academicons-1.7.0/css/academicons.min.css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i|Roboto+Condensed' rel='stylesheet' type='text/css'>
+<title>Lucy M Chang - {{ page.title }}</title>
+<!-- if you're reading this, then welcome.  site design based heavily off of the Montauk template in Squarespace, but still built by me.  can't argue with such simplicity. -->
+
+</head>
+
+<body>
+
+<div id="container">
+
+<header>
+<h1><a href="../about/">Lucy M Chang</a></h1>
+<nav>
+  <ul>
+    {% if page.title == "About" %}
+    <li><a href="../projects/" class="active">projects</a></li>
+    {% else %}
+    <li><a href="../projects/">projects</a></li>
+    {% endif %}
+    <li><a href="../publications/">publications</a></li> <!-- simple list -->
+    <li><a href="../about/">about</a></li> <!-- photo, blurb with link to text cv -->
+    <li><a href="../communication/">communication</a></li> <!-- address and email -->
+    <li><a href="../news/">news</a></li> <!-- news -->
+  </ul>
+</nav>
+</header>
+
+<div id="content">
+
+{{ content }}
+
+<div id="banner"></div>
+
+</div>
+
+<footer>
+  <div id="icons">
+  Tag along:<br />
+  <a href="https://twitter.com/lucymchang" class="icon"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
+  <a href="https://www.flickr.com/photos/144575335@N04/" class="icon"><i class="fa fa-flickr fa-2x" aria-hidden="true"></i></a>
+  <a href="https://github.com/lucymchang" class="icon"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a>
+  <a href="https://www.linkedin.com/in/lucychang" class="icon"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+  <a href="https://scholar.google.com/citations?user=lSXgeTYAAAAJ&hl=en" class="icon"><i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i></a>
+  </div>
+
+  <div id="address">
+  <p>University of California Museum of Paleontology<br />
+  University of California, Berkeley<br />
+  1101 Valley Life Sciences Building<br />
+  Berkeley, CA 94720 USA</p>
+
+  <p>luchang at berkeley dot edu</p>
+  </div>
+
+</footer>
+
+</div>
+</body>
 </html>
