@@ -15,9 +15,9 @@ layout: default
 <div class="post">
 ### {{ post.title }}
 
-*{{ post.date | date_to_string }}*
+*{{ post.date | date: "%b %-d, %Y" }}*
 
-{{ post.content }}
+{{ post.content | markdownify }}
 
 ---
 
