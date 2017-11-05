@@ -12,10 +12,16 @@ layout: default
 <div id="blog">
 
 {% for post in site.posts %}
-<div class="post"><h3>{{ post.title }}</h3>
-<p><em>{{ post.date | date_to_string }}</em></p>
-<p>{{ post.content }}</p>
-<hr /></div>
+<div class="post">
+### {{ post.title }}
+
+*{{ post.date | date_to_string }}*
+
+{{ post.content }}
+
+---
+
+</div>
 {% endfor %}
 
 </div>
