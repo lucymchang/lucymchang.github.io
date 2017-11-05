@@ -12,12 +12,10 @@ layout: default
 <div id="blog">
 
 {% for post in site.posts %}
-
 <h3>{{ post.title }}</h3>
-<em>{{ post.date | date: "%b %-d, %Y" }}</em>
+<p><em>{{ post.date | date: "%B %-d, %Y" }}</em></p>
 {{ post.content | markdownify }}
 <hr/>
-
 {% endfor %}
 
 </div>
