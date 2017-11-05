@@ -11,13 +11,13 @@ layout: default
 
 <div id="blog">
 
-{% for post in site.posts %}
+{% for post in site.posts | markdownify %}
 
 ### {{ post.title }}
 
 *{{ post.date | date: "%b %-d, %Y" }}*
 
-{{ post.content | markdownify }}
+{{ post.content }}
 
 ---
 
