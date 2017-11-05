@@ -10,9 +10,9 @@ layout: default
 <h3>CURRICULUM DEVELOPMENT AND PEDAGOGY</h3>
 
 <ul>
-<li>CADRE Leader, NGSS Early Implementation Initiative, Oakland Unified School District and K-12 Alliance/WestEd (Summer 2016)</li>
-<li>Course Developer, Origins: from the Big Bang to the Origin of Humans (IB/Astro c13, Summer 2013)</li>
-<li>Course Developer, Paleobiological Perspectives in Ecology and Evolution (IB 113L, Spring 2011)</li>
+<li>Workshop Facilitation and Development (CADRE), NGSS Early Implementation Initiative, Oakland Unified School District and K-12 Alliance/WestEd (Summer 2016 and 2017)</li>
+<li>Curriculum Development, Origins: from the Big Bang to the Origin of Humans (IB/Astro c13, Summer 2013)</li>
+<li>Curriculum Development, Paleobiological Perspectives in Ecology and Evolution (IB 113L, Spring 2011)</li>
 </ul>
 
 <h3>WRITING</h3>
