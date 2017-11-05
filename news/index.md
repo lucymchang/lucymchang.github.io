@@ -12,7 +12,7 @@ layout: default
 <div id="blog">
 
 {% for post in site.posts %}
-<div class="post">
+
 ### {{ post.title }}
 
 *{{ post.date | date: "%b %-d, %Y" }}*
@@ -21,7 +21,6 @@ layout: default
 
 ---
 
-</div>
 {% endfor %}
 
 </div>
