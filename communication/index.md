@@ -3,8 +3,6 @@ title: Communication
 layout: default
 ---
 
-<!--# {{ page.title }}-->
-
 I am passionate about developing materials with which learners at all ages can better understand the lasting impacts of global change in Earth history and the process through which we make scientific discoveries.
 
 ### CURRICULUM DEVELOPMENT AND PEDAGOGY

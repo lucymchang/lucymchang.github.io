@@ -3,8 +3,6 @@ title: Publications
 layout: default
 ---
 
-<!--# {{ page.title }}-->
-
 ### PEER-REVIEWED PUBLICATIONS
 
 * **Chang, L.M.**, Finnegan, S., and Marshall, C.R. Morphological predictors of background extinction risk for ammonites through the Cretaceous. *in preparation*

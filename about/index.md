@@ -4,8 +4,6 @@ layout: default
 redirect_from: ""
 ---
 
-<!--# {{ page.title }}-->
-
 ### I am a paleobiologist interested in what controls the shape of living things over time.
 
 I am currently a Peter Buck Deep Time Postdoctoral Fellow at the [Smithsonian Institute National Museum of Natural History](http://naturalhistory.si.edu/). You can find an overview of my research interests, outreach activities, teaching, and more on this website.
