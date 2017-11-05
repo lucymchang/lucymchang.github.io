@@ -1,5 +1,5 @@
 ---
-title: Communication
+title: Publications
 layout: default
 ---
 
