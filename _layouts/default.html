@@ -22,10 +22,10 @@
 <nav>
   <ul>
     <li><a href="../projects/"{% if page.title == "Projects" %} class="active"{% endif %}>projects</a></li>
-    <li><a href="../publications/"{% if page.title == "Publications" %} class="active"{% endif %}>publications</a></li> <!-- simple list -->
-    <li><a href="../about/"{% if page.title == "About" %} class="active"{% endif %}>about</a></li> <!-- photo, blurb with link to text cv -->
-    <li><a href="../communication/"{% if page.title == "Communication" %} class="active"{% endif %}>communication</a></li> <!-- address and email -->
-    <li><a href="../news/"{% if page.title == "News" %} class="active"{% endif %}>news</a></li> <!-- news -->
+    <li>[publications]({{ "projects" | absolute_url }}){% if page.title == "Publications" %}{:.active}{% endif %}</li>
+    <li><a href="../about/"{% if page.title == "About" %} class="active"{% endif %}>about</a></li>
+    <li><a href="../communication/"{% if page.title == "Communication" %} class="active"{% endif %}>communication</a></li>
+    <li><a href="../news/"{% if page.title == "News" %} class="active"{% endif %}>news</a></li>
   </ul>
 </nav>
 </header>
