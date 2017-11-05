@@ -18,14 +18,14 @@
 <div id="container">
 
 <header>
-<h1><a href="../about/">Lucy M Chang</a></h1>
+<h1><a href="{{ "about" | absolute_url }}">Lucy M Chang</a></h1>
 <nav>
   <ul>
-    <li><a href="../projects/"{% if page.title == "Projects" %} class="active"{% endif %}>projects</a></li>
-    <li>[publications]({{ "projects" | absolute_url }}){% if page.title == "Publications" %}{:.active}{% endif %}</li>
-    <li><a href="../about/"{% if page.title == "About" %} class="active"{% endif %}>about</a></li>
-    <li><a href="../communication/"{% if page.title == "Communication" %} class="active"{% endif %}>communication</a></li>
-    <li><a href="../news/"{% if page.title == "News" %} class="active"{% endif %}>news</a></li>
+    <li><a href="{{ "projects" | absolute_url }}"{% if page.title == "Projects" %} class="active"{% endif %}>projects</a></li>
+    <li><a href="{{ "publications" | absolute_url }}"{% if page.title == "Publications" %} class="active"{% endif %}>publications</a></li>
+    <li><a href="{{ "about" | absolute_url }}"{% if page.title == "About" %} class="active"{% endif %}>about</a></li>
+    <li><a href="{{ "communication" | absolute_url }}"{% if page.title == "Communication" %} class="active"{% endif %}>communication</a></li>
+    <li><a href="{{ "news" | absolute_url }}"{% if page.title == "News" %} class="active"{% endif %}>news</a></li>
   </ul>
 </nav>
 </header>
