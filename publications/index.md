@@ -7,27 +7,22 @@ layout: default
 
 ### PEER-REVIEWED PUBLICATIONS
 
-<ul class="pubs">
-  <li><strong>Chang, L.M.</strong>, Finnegan, S., and Marshall, C.R. Morphological predictors of background extinction risk for ammonites through the Cretaceous. <em>in preparation</em></li>
-
-  <li><strong>Chang, L.M.</strong> *webpic*: a flexible web application for collecting distance and count measurements from images. *in review*</li>
-</ul>
+* **Chang, L.M.**, Finnegan, S., and Marshall, C.R. Morphological predictors of background extinction risk for ammonites through the Cretaceous. *in preparation*
+* **Chang, L.M.** *webpic*: a flexible web application for collecting distance and count measurements from images. *in review*
 
 ### BOOKS
 
-<ul class="pubs">
-  <li>Capps, D., McLane, S., and <strong>Chang, L.</strong> 2016. Denali National Park and Preserve Geology Road Guide. National Park Service, Denali National Park and Preserve, Denali Park, Alaska.  [[pdf](https://www.nps.gov/dena/learn/nature/upload/Denali-Geology-Road-Guide.pdf)]</li>
-</ul>
+* Capps, D., McLane, S., and **Chang, L.** 2016. Denali National Park and Preserve Geology Road Guide. National Park Service, Denali National Park and Preserve, Denali Park, Alaska.  [[pdf](https://www.nps.gov/dena/learn/nature/upload/Denali-Geology-Road-Guide.pdf)]
 
 ### PRESENTATIONS AND INVITED TALKS
 
-* denotes presenting author
+\* denotes presenting author
 
-<ul class="pubs">
-  <li><strong>Chang, L.M.</strong>* and Yacobucci, M.M. Detecting consistent morphological shifts across
-biogeographic boundaries in the fossil record. Poster presentation at the International Biogeography Society 8th Biennial Meeting, Tucson, AZ, USA. [[abstract book pdf](https://tucson2017ibs.files.wordpress.com/2016/07/full-program-book-tucson-ibs2.pdf)] [[poster pdf 19.6 mb](../images/IBS2017.pdf)]</li>
+* **Chang, L.M.**\* and Yacobucci, M.M. Detecting consistent morphological shifts across
+biogeographic boundaries in the fossil record. Poster presentation at the International Biogeography Society 8th Biennial Meeting, Tucson, AZ, USA. [[abstract book pdf](https://tucson2017ibs.files.wordpress.com/2016/07/full-program-book-tucson-ibs2.pdf)] [[poster pdf 19.6 mb](../images/IBS2017.pdf)]
+* **Chang, L.M.**\* and Yacobucci, M.M. 2016. Testing for consistency in morphological shifts across environments for ammonites of the Western Interior Seaway. Oral presentation at the Geological Society of America Annual Meeting, Denver, CO, USA. [[abstract](https://gsa.confex.com/gsa/2016AM/webprogram/Paper283786.html)]
 
-  <li><strong>Chang, L.M.</strong>* and Yacobucci, M.M. 2016. Testing for consistency in morphological shifts across environments for ammonites of the Western Interior Seaway. Oral presentation at the Geological Society of America Annual Meeting, Denver, CO, USA. [[abstract](https://gsa.confex.com/gsa/2016AM/webprogram/Paper283786.html)]</li>
+<ul>
 
   <li>Souto, C.* and <strong>Chang, L.</strong> 2016. Estimating echinoid diversity using data from large databases: pitfalls and evolutionary trends. Oral presentation at the Congreso Latinoamericano de Equinodermos, San Pedro, Costa Rica.</li>
 
