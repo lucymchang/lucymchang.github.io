@@ -3,7 +3,15 @@ title: Communication
 layout: default
 ---
 
-I am passionate about developing materials with which learners at all ages can better understand the lasting impacts of global change in Earth history and the process through which we make scientific discoveries.
+I am passionate about developing materials with which learners at all ages can better understand Earth systems, evolution, and the process through which scientific discoveries are made.
+
+### R Teaching Materials
+
+Feel free to peruse the following materials I developed or co-developed to teach introductory and advanced topics in R:
+* [Introduction to R](https://github.com/ibgradR/Rworkshop_2017/wiki), a 3-day workshop I co-organized and co-taught for graduate students in the Department of Integrative Biology, University of California, Berkeley (January 2017)
+* [Introduction to R](https://github.com/nmnh-r-users/R-Basics/wiki), a 5-day workshop I co-organized and co-taught for researchers at the Smithsonian NMNH (April 2018)
+* [Introduction to ggplot2](https://github.com/nmnh-r-users/meetups/tree/master/code/ggplot), mini-lesson for the Smithsonian NMNH R Users Group
+* [Text Processing in R](https://github.com/nmnh-r-users/meetups/tree/master/code/text-processing), mini-lesson for the Smithsonian NMNH R Users Group
 
 ### CURRICULUM DEVELOPMENT AND PEDAGOGY
 
