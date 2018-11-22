@@ -5,7 +5,7 @@ layout: default
 
 I am passionate about developing materials with which learners at all ages can better understand Earth systems, evolution, and the process through which scientific discoveries are made.
 
-### R Teaching Materials
+### R TEACHING MATERIALS
 
 Feel free to peruse the following materials I developed or co-developed to teach introductory and advanced topics in R:
 * [Introduction to R](https://github.com/ibgradR/Rworkshop_2017/wiki), 3-day workshop I co-organized and co-taught for graduate students in the Department of Integrative Biology, University of California, Berkeley (January 2017)
@@ -21,6 +21,8 @@ Feel free to peruse the following materials I developed or co-developed to teach
 
 ### WRITING
 
+* Blogger, Smithsonian Voices, Smithsonian Magazine
+  * [Here's How Scientists Reconstruct Earth's Past Climates](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2018/03/23/heres-how-scientists-reconstruct-earths-past-climates/) (with Caitlin Keating-Bitonti)
 * Content Developer, Understanding Global Change, University of California Museum of Paleontology
 * Geoheritage Education Specialist, Denali National Park and Preserve, Geological Society of America and National Park Service
   * The Denali National Park and Preserve Geology Road Guide, a product of my time at the park, can be accessed [here](https://www.nps.gov/dena/learn/nature/upload/Denali-Geology-Road-Guide.pdf) (PDF).
